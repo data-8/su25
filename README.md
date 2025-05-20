@@ -1,4 +1,6 @@
-# DATA 8 Summer 2025
+# DATA 8 Summer 2025 Website
+
+[![Run all page tests](https://github.com/data-8/su25/actions/workflows/rspec.yml/badge.svg)](https://github.com/data-8/su25/actions/workflows/rspec.yml)
 
 ## Installation
 
