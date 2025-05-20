@@ -47,7 +47,7 @@ RSpec.shared_examples 'a11y tests' do
 end
 
 ALL_PAGES.each do |path|
-  if path.match(%r{/sp25/textbook/})
+  if path.match(%r{/su25/textbook/})
     describe 'Jupyter Notebook Exports' do
       skip "skipping likely notebook file @ #{path}"
     end
