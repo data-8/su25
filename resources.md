@@ -20,7 +20,7 @@ nav_order: 5
 ## Materials
 
 ### Student Materials Folder
-We will post student materials in a folder that will be linked here throughout the semester.
+We will post student materials in a [folder linked here](https://drive.google.com/drive/folders/1SiqgHHoj9GvnJ2IHXhLjKYoDv-EqcDHR?usp=drive_link) throughout the semester.
 
 ### Guides
 * [Arrays Primer](https://drive.google.com/file/d/1SzpKe_SnFf9_mkLyhETz5-AiaBJBYJDv/view?usp=sharing){:target="_blank"}
