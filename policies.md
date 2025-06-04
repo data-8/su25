@@ -107,25 +107,13 @@ Lectures will be held daily in Dwinelle 155.  On Mondays, Tuesdays, Wednesdays a
 
 ### Labs
 
-Weekly labs include a discussion worksheet covering recent material and a programming-based lab assignment that develops skills with computational and inferential concepts. The problems in lab are good preparation for similar (and harder) problems you will see on your homework assignments and exams! Lab assignments will be released on Monday night each week.  
+Weekly labs include a discussion worksheet covering recent material and a programming-based lab assignment that develops skills with computational and inferential concepts. The problems in lab are good preparation for similar (and harder) problems you will see on your homework assignments and exams! Lab assignments will be released on Mondays and night each week.  
 
-This semester, we offer two lab formats: an attendance-based option called regular lab and a submission-based option called self-service lab. Both are designed to help students learn the course material equally well. First-year students and students without prior programming experience are strongly encouraged to choose the regular lab. Working on programming-based lab assignments in a small classroom with dedicated course staff available to help is a great way to learn, especially if this is your first exposure to coding!
 
-The self-service lab is designed to appeal to students who learn well from large-format lectures, work independently at their own pace, and come to drop-in office hours when they need help. However, the regular lab format has advantages for students who wish to practice materials in a discussion-based format,work with others and have a dedicated lab uGSI and tutors for immediate support during lab time. 
+_More on lab_
 
-You can choose whichever format you would like. Here are some more concrete details about each format!
+Labs are two hours long and take place on Mondays and Wednesdays every week, following the lecture for that day. The first hour focuses on a discussion worksheet and group problem-solving. There will be no technology allowed during this portion of the lab (all materials required will be available at the lab section). The second hour is dedicated to completing a programming-based assignment. 80% of lab credit will be attendance-based. The remaining 20% of credit will be awarded for submitting the programming-based assignment to Gradescope by the deadline (later in the day)  with all test cases passing. Discussion worksheets do not need to be submitted. Active participation in the discussion and lab is required to earn attendance credit. Regular lab sessions will not be webcast or recorded.
 
-_Regular Lab_
-
-Regular lab meetings are two hours long and take place on Mondays and Wednesdays every week, following the lecture for that day. The first hour focuses on the discussion worksheet and group problem-solving. There will be no technology allowed during this portion of the lab (all materials required will be available at the lab section). The second hour is dedicated to completing the programming-based lab assignment. 80% of lab credit will be attendance-based. The remaining 20% of credit will be awarded for submitting the programming-based assignment to Gradescope by the deadline (later in the day)  with all test cases passing. Discussion worksheets do not need to be submitted. Active participation in the discussion and lab is required to earn attendance credit. Regular lab sessions will not be webcast or recorded.
-
-_Self-Service Lab_
-
-You will complete two weekly coding assignments; one releases on Mondays, and the other released on Wednesdays. They are each due on the day that they are released.  While no class time will be reserved for this format, you may use office hours to help you complete the lab. Lab assignments include automatic feedback, so completing the lab assignment in full guarantees you a perfect score. Please note that there will be no attendance credit for self service labs. Your lab score will be solely based on your test cases (i.e. if you pass 80% of test cases you will receive a score of 80% on that lab).
-
-_Want to Switch your Lab Format?_
-
-Students may switch formats at two points throughout the semester (1) during the first week of lab sections (between the start of Lab 1 and the start of Lab 2) and (2) after the midterm scores have been released. Please note that students looking to switch from self service to regular lab following the midterm will only be able to do so if capacity in lab sections are available. Additionally, if at any point a student has chosen the self service format, their lab grade will be solely based on the completion of the lab notebook, regardless of if they are attending a regular lab (e.g. if a student switches into a regular lab section from self service post-midterm, their credit will still be awarded based on the percentage of test cases passed). 
 
 _How Should You Submit The Programming-Based Assignment?_
 
@@ -184,7 +172,7 @@ Grades will be assigned using the following weighted components. Every assignmen
 
 The instructor nor the TA will respond to any questions regarding grade bins or letter grades. Please consult Berkeleytime for historical distributions of grade bins!
 
-Grades for Homeworks, Projects, and Labs will be posted on Gradescope within a timely manner after the assignment's due date. Solutions to the assignment and common mistakes will also be posted on Ed. It is up to you to check the solutions and request a regrade request before the regrade deadline (typically 2 days after grade release). Regrade requests can be made on Gradescope. Any regrade request past the deadline will not be looked at; this is to enforce the same deadline across all students, so again: please do not delay reviewing your work. 
+Grades for Homeworks, Projects, and Labs will be posted on Gradescope within a timely manner after the assignment's due date. Solutions to the assignment and common mistakes will also be posted on Ed. It is up to you to check the solutions and request a regrade request before the **regrade deadline of 1 day after grade release**. Regrade requests can be made on Gradescope. Any regrade request past the deadline will not be looked at; this is to enforce the same deadline across all students, so again: please do not delay reviewing your work. 
 
 ### Submitting assignments
 
@@ -226,7 +214,7 @@ This list of prohibited behaviors is not exhaustive and we reserve the right to 
 
 
 
-## A parting thought
+## Thanks for reading! 
 
-The main goal of the course is that you should learn and have a fantastic experience doing so. Please keep that goal in mind throughout the semester. The other goal is, of course, to have fun. Welcome to Data 8!
+The main goal of the course is that you should learn and have a fantastic experience doing so. The other goal is, of course, to have fun. Welcome to Data 8!
 
