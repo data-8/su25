@@ -15,13 +15,13 @@ July 14
 July 15
 : **16**{: .label} A/B Testing
     : {{site.links.lec.slides.slide}} {{site.links.lec.demo.demo}}
-: _Reading:_ [11.4](https://inferentialthinking.com/chapters/11/4/Error_Probabilities.html), [12.1](https://inferentialthinking.com/chapters/12/1/AB_Testing.html)
+: _Reading:_ [12.0](https://inferentialthinking.com/chapters/12/Comparing_Two_Samples.html), [12.1](https://inferentialthinking.com/chapters/12/1/AB_Testing.html)
 
 
 July 16
 : **17**{: .label} Causality
     : {{site.links.lec.slides.slide}} {{site.links.lec.demo.demo}}
-: _Reading:_ [12.2](https://inferentialthinking.com/chapters/12/2/Causality.html)
+: _Reading:_ [12.2](https://inferentialthinking.com/chapters/12/2/Causality.html), [12.3](https://inferentialthinking.com/chapters/12/3/Deflategate.html)
 : **Lab**{: .label .label-lab} {{site.links.lab.lab08}} 
 
 

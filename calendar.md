@@ -19,6 +19,8 @@ UC Berkeley, Summer 2025
 <!-- [Extensions](https://docs.google.com/forms/d/e/1FAIpQLSebp86RhH3cWG1_4v6dR5f_WyJ_icj3cmXoUy9p4C30typmOw/viewform){: .btn .btn-extensions} -->
 [Jump to Current Week](https://www.data8.org/sp25/#week-0){: .btn .btn-currweek}
 
+For readings that do not specify a particular section, like on June 23 with chapter 1, read the whole chapter. Particular sections are specified as on June 27 with chapters 6.1 and 6.2.
+
 {% include announcements-navigation.html %}
 
 {% assign mods = site.modules | where: 'class', 'Berkeley' %}

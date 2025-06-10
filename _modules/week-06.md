@@ -13,7 +13,7 @@ July 28
 July 29
 : **25**{: .label} Correlation
     : {{site.links.lec.slides.slide}} {{site.links.lec.demo.demo}}
-: _Reading:_ [15.1](https://inferentialthinking.com/chapters/15/1/Correlation.html)
+: _Reading:_ [15.0](https://inferentialthinking.com/chapters/15/Prediction.html), [15.1](https://inferentialthinking.com/chapters/15/1/Correlation.html)
 : **Homework**{: .label .label-homework} 
     {{site.links.hw.hw09}} (Due 8/1)
 
@@ -32,6 +32,6 @@ July 31
 August 1
 : **28**{: .label} Residuals
     : {{site.links.lec.slides.slide}} {{site.links.lec.demo.demo}}
-: _Reading:_ [15.5](https://inferentialthinking.com/chapters/15/5/Visual_Diagnostics.html)
+: _Reading:_ [15.5](https://inferentialthinking.com/chapters/15/5/Visual_Diagnostics.html), [15.6](https://inferentialthinking.com/chapters/15/6/Numerical_Diagnostics.html)
 : **Homework**{: .label .label-homework} 
     {{site.links.hw.hw10}} (Due 8/5)

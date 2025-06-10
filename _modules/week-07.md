@@ -14,7 +14,7 @@ August 4
 August 5
 : **30**{: .label} Classification
     : {{site.links.lec.slides.slide}} {{site.links.lec.demo.demo}}
-: _Reading:_ [17.1](https://inferentialthinking.com/chapters/17/1/Nearest_Neighbors.html), [17.2](https://inferentialthinking.com/chapters/17/2/Training_and_Testing.html)
+: _Reading:_ [17.0](https://inferentialthinking.com/chapters/17/Classification.html), [17.1](https://inferentialthinking.com/chapters/17/1/Nearest_Neighbors.html)
 : **Homework**{: .label .label-homework} 
     {{site.links.hw.hw11}} (Due 8/8)
 : **Project**{: .label .label-project} {{site.links.proj.proj2}} (Due Fri 8/14, Checkpoint 8/8)
@@ -31,12 +31,12 @@ August 6
 August 7
 : **32**{: .label} Evaluating Classifiers
     : {{site.links.lec.slides.slide}} {{site.links.lec.demo.demo}}
-: _Reading:_ [17.5](https://inferentialthinking.com/chapters/17/5/Accuracy_of_the_Classifier.html)
+: _Reading:_ [17.2](https://inferentialthinking.com/chapters/17/2/Training_and_Testing.html), [17.5](https://inferentialthinking.com/chapters/17/5/Accuracy_of_the_Classifier.html)
 
 
 August 8
 : **33**{: .label} Updating Probabilities
     : {{site.links.lec.slides.slide}} {{site.links.lec.demo.demo}}
-: _Reading:_ [18](https://inferentialthinking.com/chapters/18/Updating_Predictions.html), [18.1](https://inferentialthinking.com/chapters/18/1/More_Likely_than_Not_Binary_Classifier.html), [18.2](https://inferentialthinking.com/chapters/18/2/Making_Decisions.html)
+: _Reading:_ [18.0](https://inferentialthinking.com/chapters/18/Updating_Predictions.html), [18.1](https://inferentialthinking.com/chapters/18/1/More_Likely_than_Not_Binary_Classifier.html), [18.2](https://inferentialthinking.com/chapters/18/2/Making_Decisions.html)
 : **Homework**{: .label .label-homework} 
     {{site.links.hw.hw12}} (Due 8/12)
