@@ -33,7 +33,7 @@ url: 'https://www.data8.org' # the hostname & protocol for your site, e.g. http:
 course: Data 8
 course_email: data8@berkeley.edu
 gradescope_course_id: 1042415 # you can find this in the Gradescope URL after /courses
-bcourses_course_id: 0000 # Same as above, but for bCourses. Leave blank if not in use...
+bcourses_course_id: 1544818 # Same as above, but for bCourses. Leave blank if not in use...
 ed_course_id: 79204 # Again, same as above.
 sememster: su25 # set for the current seemester
 # This should be one of eecs, dsus, stat
