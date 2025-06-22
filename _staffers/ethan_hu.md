@@ -4,5 +4,5 @@ email: ethanhu@berkeley.edu
 pronouns: HE/HIM
 photo: ethan.jpg
 bio:
-role: UCS1
+role: UCS2
 ---
