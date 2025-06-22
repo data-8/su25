@@ -23,9 +23,9 @@ description: A modern, highly customizable, responsive Jekyll template for cours
 color_scheme: light
 
 # TODO(setup): Set this to the semester, e.g. /sp24, (faXX / spXX / suXX / wiXX )
-baseurl: '/su25' # the subpath of your site, which should just be the semester.
+baseurl: "/su25" # the subpath of your site, which should just be the semester.
 # TODO(setup): Set this to your course's domain
-url: 'https://www.data8.org' # the hostname & protocol for your site, e.g. http://example.com
+url: "https://www.data8.org" # the hostname & protocol for your site, e.g. http://example.com
 
 # Course variables
 # Course variables can appear in various places around the website, if something isn't used leave it blank.
@@ -50,11 +50,11 @@ class_archive_path: /
 aux_links:
   # TODO(template): Move this to be built-in.
   Ed:
-    - 'https://edstem.org/us/courses/79204/discussion'
+    - "https://edstem.org/us/courses/79204/discussion"
   OH Queue:
-    - 'https://oh.data8.org/'
+    - "https://oh.data8.org/"
   Textbook:
-    - 'https://inferentialthinking.com/chapters/intro.html'
+    - "https://inferentialthinking.com/chapters/intro.html"
   # Extensions:
   #   - 'https://docs.google.com/forms/d/e/1FAIpQLSebp86RhH3cWG1_4v6dR5f_WyJ_icj3cmXoUy9p4C30typmOw/viewform?usp=sharing'
 
@@ -78,43 +78,43 @@ collections:
 # Default layouts for each collection type
 defaults:
   - scope:
-      path: ''
+      path: ""
       type: labs
     values:
       layout: lab
       nav_exclude: true
   - scope:
-      path: ''
+      path: ""
       type: hw
     values:
       layout: hw
       nav_exclude: true
   - scope:
-      path: ''
+      path: ""
       type: projects
     values:
       layout: project
       nav_exclude: true
   - scope:
-      path: '_staffers'
+      path: "_staffers"
       type: staffers
     values:
       layout: staffer
       height: 300
-      subpath: '/assets/images/staff/'
+      subpath: "/assets/images/staff/"
       width: 300
   - scope:
-      path: ''
+      path: ""
       type: modules
     values:
       layout: module
   - scope:
-      path: ''
+      path: ""
       type: schedules
     values:
       layout: schedule
   - scope:
-      path: ''
+      path: ""
       type: announcements
     values:
       layout: announcement
@@ -152,7 +152,7 @@ footer_content: true
 back_to_top: true
 back_to_top_text: "Back to Top"
 last_edit_timestamp: true
-last_edit_time_format: '%m %d, %Y at %H:%M'
+last_edit_time_format: "%m %d, %Y at %H:%M"
 
 # Compilation settings used by compress-html plugin:
 # https://github.com/penibelst/jekyll-compress-html/tree/v3.2.0?tab=readme-ov-file
@@ -197,11 +197,11 @@ exclude:
 
 links:
   hw:
-    hw01: "[Homework 01]()"
-    hw02: "[Homework 02]()"
-    hw03: "[Homework 03]()"
-    hw04: "[Homework 04]()"
-    hw05: "[Homework 05]()"
+    hw01: "Homework 01"
+    hw02: "Homework 02"
+    hw03: "Homework 03"
+    hw04: "Homework 04"
+    hw05: "Homework 05"
     hw06: "Homework 06"
     hw07: "Homework 07"
     hw08: "Homework 08"
@@ -211,11 +211,11 @@ links:
     hw12: "Homework 12 (Extra Credit)"
     hw13: "Homework 13"
   lab:
-    lab01: "[Lab 01]()"
-    lab02: "[Lab 02]()"
-    lab03: "[Lab 03]()"
-    lab04: "[Lab 04]()"
-    lab05: "[Lab 05]()"
+    lab01: "Lab 01"
+    lab02: "Lab 02"
+    lab03: "Lab 03"
+    lab04: "Lab 04"
+    lab05: "Lab 05"
     lab06: "Lab 06"
     lab07: "Lab 07"
     lab08: "Lab 08"
@@ -295,7 +295,7 @@ links:
       demo43: ""
     slides:
       slide: "[Slides]()"
-      slide01: "[Slides]()" 
+      slide01: "[Slides]()"
       slide02: "[Slides]()"
       slide03: "[Slides]()"
       slide04: "[Slides]()"
