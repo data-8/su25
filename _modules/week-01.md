@@ -9,7 +9,7 @@ June 23
     : {{site.links.lec.slides.slide01}} {{site.links.lec.demo.demo01}}
 : _Reading:_ [1](https://inferentialthinking.com/chapters/01/what-is-data-science.html)
 : **Lab**{: .label .label-lab} {{site.links.lab.lab01}} 
-<!-- : **Discussion**{: .label .label-discussion} {{site.links.wksht.wksht01}} -->
+: **Discussion**{: .label .label-discussion} {{site.links.wksht.wksht01}}
 
 June 24
 : **2**{: .label} Cause and Effect
