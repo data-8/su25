@@ -6,7 +6,7 @@ status: Active
 
 June 23
 : **1**{: .label} Introduction
-    : {{site.links.lec.slides.slide}} {{site.links.lec.demo.demo}}
+    : {{site.links.lec.slides.slide01}} {{site.links.lec.demo.demo01}}
 : _Reading:_ [1](https://inferentialthinking.com/chapters/01/what-is-data-science.html)
 : **Lab**{: .label .label-lab} {{site.links.lab.lab01}} 
 <!-- : **Discussion**{: .label .label-discussion} {{site.links.wksht.wksht01}} -->

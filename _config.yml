@@ -19,6 +19,7 @@ title: Data 8
 # TODO:(setup): This should be the extended title of your course. e.g. "Introduction to Data Science"
 tagline: Foundations of Data Science
 description: A modern, highly customizable, responsive Jekyll template for course websites
+author: Silas Santini, Isaac Chung and Richard Villagomez
 # You should use either light or dark as the theme.
 color_scheme: light
 
@@ -249,8 +250,8 @@ links:
     proj3: "Project 3: Movie Classification"
   lec:
     demo:
-      demo: "[Demo](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/data-8/materials-su25&urlpath=tree/materials-sp25/lec/lec01/lec01.ipynb&branch=main)"
-      demo01: ""
+      demo: ""
+      demo01: "[Demo](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/data-8/materials-su25&urlpath=tree/materials-sp25/lec/lec01/lec01.ipynb&branch=main)"
       demo02: ""
       demo03: ""
       demo04: ""
@@ -294,7 +295,7 @@ links:
       demo42: ""
       demo43: ""
     slides:
-      slide: "[Slides]()"
+      slide: "Slides"
       slide01: "[Slides](https://docs.google.com/presentation/d/1Rg3tyM3b68n8Ko5OzsnnvXSbeP-HARD5WlLKUfXXCFk/edit?usp=sharing)"
       slide02: "Slides"
       slide03: "Slides"
