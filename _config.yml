@@ -250,8 +250,8 @@ links:
     proj3: "Project 3: Movie Classification"
   lec:
     demo:
-      demo: ""
-      demo01: "[Demo](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/data-8/materials-su25&urlpath=tree/materials-sp25/lec/lec01/lec01.ipynb&branch=main)"
+      demo: "&#8226; Demo"
+      demo01: "&#8226; [Demo](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/data-8/materials-su25&urlpath=tree/materials-sp25/lec/lec01/lec01.ipynb&branch=main)"
       demo02: ""
       demo03: ""
       demo04: ""
