@@ -212,7 +212,7 @@ links:
     hw12: "Homework 12 (Extra Credit)"
     hw13: "Homework 13"
   lab:
-    lab01: "Lab 01"
+    lab01: "[Lab 01](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su25&branch=main&urlpath=tree%2Fmaterials-su25%2Flab%2Flab01%2Flab01.ipynb)"
     lab02: "Lab 02"
     lab03: "Lab 03"
     lab04: "Lab 04"
