@@ -26,15 +26,15 @@ schedule:
       - name: Lecture
         start: 11:00 AM
         end: 12:00 PM
-        location: Wheeler 150
-      - name: Office Hours
-        start: 1:00 PM
-        end: 4:00 PM
-        location: Warren 101-B
+        location: Dwinelle 155
   - name: Tuesday
     events:
+      - name: Lecture
+        start: 11:00 AM
+        end: 12:00 PM
+        location: Dwinelle 155
       - name: Office Hours
-        start: 9:00 AM
+        start: 1:00 PM
         end: 4:00 PM
         location: Warren 101-B
   - name: Wednesday
@@ -42,41 +42,25 @@ schedule:
       - name: Lecture
         start: 11:00 AM
         end: 12:00 PM
-        location: Wheeler 150
-      - name: Office Hours
-        start: 12:00 PM
-        end: 1:00 PM
-        location: Warren 101-B & Online
+        location: Dwinelle 155
+  - name: Thursday
+    events:  
+      - name: Lecture
+        start: 11:00 AM
+        end: 12:00 PM
+        location: Dwinelle 155
       - name: Office Hours
         start: 1:00 PM
         end: 4:00 PM
-        location: Warren 101-B
-      - name: Project Party
-        start: 6:00 PM
-        end: 8:00 PM
-        location: Evans 2
-  - name: Thursday
-    events:  
-      - name: Instructor OH
-        start: 9:00 AM
-        end: 11:00 AM
-        location: Evans 340
-      - name: Office Hours
-        start: 12:00 PM
-        end: 3:00 PM
         location: Warren 101-B
   - name: Friday
     events:
       - name: Lecture
         start: 11:00 AM
-        end: 12:00 PM
-        location: Wheeler 150
-      - name: Office Hours
-        start: 12:00 PM
         end: 1:00 PM
-        location: Warren 101-B & Online
+        location: Dwinelle 155
       - name: Office Hours
         start: 1:00 PM
-        end: 3:00 PM
+        end: 4:00 PM
         location: Warren 101-B
 ---
