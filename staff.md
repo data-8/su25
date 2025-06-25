@@ -24,7 +24,7 @@ nav_order: 4
 {% endfor %}
 </div>
 
-## UCS2s
+## Teaching Assistants
 
 {% assign ucs2 = site.staffers | where: 'role', 'UCS2' %}
 {% assign num_ucs2 = ucs2 | size %}
@@ -37,7 +37,7 @@ nav_order: 4
 {% endif %}
 </div>
 
-## UCS1s
+## Tutors
 
 {% assign ucs1 = site.staffers | where: 'role', 'UCS1' %}
 {% assign num_ucs1 = ucs1 | size %}
