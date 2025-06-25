@@ -20,7 +20,7 @@ June 24
 
 June 25
 : **3**{: .label} Python
-    : {{site.links.lec.slides.slide}} {{site.links.lec.demo.demo}}
+    : {{site.links.lec.slides.slide03}} {{site.links.lec.demo.demo03}}
 : _Reading:_ [3](https://inferentialthinking.com/chapters/03/programming-in-python.html)
 : **Lab**{: .label .label-lab} {{site.links.lab.lab02}} 
 
