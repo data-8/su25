@@ -33,6 +33,6 @@ June 26
 June 27
 : **5**{: .label} Tables
     : {{site.links.lec.slides.slide}} {{site.links.lec.demo.demo}}
-: _Reading:_ [6.1](https://inferentialthinking.com/chapters/06/1/Sorting_Rows.html), [6.2](https://inferentialthinking.com/chapters/06/2/Selecting_Rows.html)
+: _Reading:_ [6.0](https://inferentialthinking.com/chapters/06/Tables.html), [6.1](https://inferentialthinking.com/chapters/06/1/Sorting_Rows.html), [6.2](https://inferentialthinking.com/chapters/06/2/Selecting_Rows.html)
 : **Homework**{: .label .label-homework} 
     {{site.links.hw.hw02}} (Due 7/1)
