@@ -26,7 +26,7 @@ June 25
 
 June 26
 : **4**{: .label} Data Types
-    : {{site.links.lec.slides.slide}} {{site.links.lec.demo.demo}}
+    : {{site.links.lec.slides.slide04}} {{site.links.lec.demo.demo04}}
 : _Reading:_ [4](https://inferentialthinking.com/chapters/04/Data_Types.html), [5](https://inferentialthinking.com/chapters/05/Sequences.html)
 
 
