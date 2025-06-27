@@ -23,6 +23,7 @@ June 25
     : {{site.links.lec.slides.slide03}} {{site.links.lec.demo.demo03}}
 : _Reading:_ [3](https://inferentialthinking.com/chapters/03/programming-in-python.html)
 : **Lab**{: .label .label-lab} {{site.links.lab.lab02}} 
+: **Discussion**{: .label .label-discussion} {{site.links.wksht.wksht02}}
 
 June 26
 : **4**{: .label} Data Types
