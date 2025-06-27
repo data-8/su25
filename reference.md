@@ -9,8 +9,8 @@ description: >-
 # **Detailed Python Reference Sheet**
 
 {:.no_toc}
-Created by Nishant Kheterpal and Jessica Hu,
-Contributions by Jonathan Ferrari, Updated and Maintained by Edwin Vargas and Bing Concepcion
+Created by Nishant Kheterpal and Jessica H; contributions by Jonathan Ferrari, Edwin Vargas and Bing Concepcion  
+ Updated and maintained by Richard Villagomez and Isaac Chung 
 
 ## Table of Contents
 {: .no_toc .text-delta }
