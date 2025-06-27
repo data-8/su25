@@ -192,9 +192,9 @@ We understand that the submission process is new for many students taking the co
 
 ### Drops
 
--	**Homeworks**: Your two lowest homework scores scores will be dropped in the calculation of your overall grade.
-- **Labs**: Your two lowest homework scores scores will be dropped in the calculation of your overall grade.
-	-	To use a lab drop you must message your GSI  prior to the start of your lab,informing them that you will not be in attendance. The earlier in advance, the more likely your drop will be approved.
+-	**Homeworks**: Your two lowest homework scores will be dropped in the calculation of your overall grade.
+- **Labs**: Your two lowest lab scores will be dropped in the calculation of your overall grade.
+	-	To use a lab drop, you must message your GSI prior to the start of your lab,informing them that you will not be in attendance. The earlier in advance, the more likely your drop will be approved.
 
 
 If you have an ongoing situation that prevents you from completing course content, please contact the course instructor. 
