@@ -61,6 +61,6 @@ schedule:
         location: Dwinelle 155
       - name: Office Hours
         start: 1:00 PM
-        end: 4:00 PM
+        end: 3:00 PM
         location: Warren 101-B
 ---
