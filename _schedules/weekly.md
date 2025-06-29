@@ -56,7 +56,7 @@ schedule:
   - name: Friday
     events:
       - name: Lecture
-        start: 11:00 AM
+        start: 12:00 PM
         end: 1:00 PM
         location: Dwinelle 155
       - name: Office Hours
