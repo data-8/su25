@@ -6,7 +6,7 @@ status: Active
 
 June 30
 : **6**{: .label} Case Study: Census
-    : {{site.links.lec.slides.slide}} {{site.links.lec.demo.demo}}
+    : {{site.links.lec.slides.slide06}} {{site.links.lec.demo.demo06}}
 : _Reading:_ [6.3](https://inferentialthinking.com/chapters/06/3/Example_Population_Trends.html), [6.4](https://inferentialthinking.com/chapters/06/4/Example_Sex_Ratios.html)
 : **Lab**{: .label .label-lab} {{site.links.lab.lab03}} 
 : **Project**{: .label .label-project} {{site.links.proj.proj1}} (Due Fri 7/15, Checkpoint 7/7)
