@@ -31,5 +31,5 @@ July 3
 : **Homework**{: .label .label-homework} 
     {{site.links.hw.hw04}} (Due 7/8)
 
-July 2
+July 4
 : **Independence Day**{: .label} No Class

@@ -17,7 +17,7 @@ UC Berkeley, Summer 2025
 <!-- [Lecture Recordings](https://bcourses.berkeley.edu/courses/1542000/external_tools/90481){: .btn .btn-bcourses} -->
 [Office Hours Queue](https://oh.data8.org/){: .btn .btn-officehours}
 <!-- [Extensions](https://docs.google.com/forms/d/e/1FAIpQLSebp86RhH3cWG1_4v6dR5f_WyJ_icj3cmXoUy9p4C30typmOw/viewform){: .btn .btn-extensions} -->
-[Jump to Current Week](https://www.data8.org/su25/#week-1){: .btn .btn-currweek}
+[Jump to Current Week](https://www.data8.org/su25/#week-2){: .btn .btn-currweek}
 
 For readings that do not specify a particular section, like on June 23 with chapter 1, read the whole chapter. Particular sections are specified as on June 27 with chapters 6.1 and 6.2.
 
