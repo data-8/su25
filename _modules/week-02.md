@@ -13,7 +13,7 @@ June 30
 
 July 1
 : **7**{: .label} Data Visualization
-    : {{site.links.lec.slides.slide}} {{site.links.lec.demo.demo}}
+    : {{site.links.lec.slides.slide07}} {{site.links.lec.demo.demo07}}
 : _Reading:_ [7.0](https://inferentialthinking.com/chapters/07/Visualization.html), [7.1](https://inferentialthinking.com/chapters/07/1/Visualizing_Categorical_Distributions.html), [7.3](https://inferentialthinking.com/chapters/07/3/Overlaid_Graphs.html)
 : **Homework**{: .label .label-homework} 
     {{site.links.hw.hw03}} (Due 7/3)
