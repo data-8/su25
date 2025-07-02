@@ -20,7 +20,7 @@ July 1
 
 July 2
 : **8**{: .label} Histograms
-    : {{site.links.lec.slides.slide}} {{site.links.lec.demo.demo}}
+    : {{site.links.lec.slides.slide08}} {{site.links.lec.demo.demo08}}
 : _Reading:_ [7.2](https://inferentialthinking.com/chapters/07/2/Visualizing_Numerical_Distributions.html)
 : **Lab**{: .label .label-lab} {{site.links.lab.lab04}} 
 
