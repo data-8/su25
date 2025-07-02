@@ -10,6 +10,7 @@ June 30
 : _Reading:_ [6.3](https://inferentialthinking.com/chapters/06/3/Example_Population_Trends.html), [6.4](https://inferentialthinking.com/chapters/06/4/Example_Sex_Ratios.html)
 : **Lab**{: .label .label-lab} {{site.links.lab.lab03}} 
 : **Project**{: .label .label-project} {{site.links.proj.proj1}} (Due Fri 7/15, Checkpoint 7/7)
+: **Discussion**{: .label .label-discussion} {{site.links.wksht.wksht03}}
 
 July 1
 : **7**{: .label} Data Visualization
@@ -23,6 +24,7 @@ July 2
     : {{site.links.lec.slides.slide08}} {{site.links.lec.demo.demo08}}
 : _Reading:_ [7.2](https://inferentialthinking.com/chapters/07/2/Visualizing_Numerical_Distributions.html)
 : **Lab**{: .label .label-lab} {{site.links.lab.lab04}} 
+: **Discussion**{: .label .label-discussion} {{site.links.wksht.wksht04}}
 
 July 3
 : **9**{: .label} Functions
