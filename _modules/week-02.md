@@ -28,7 +28,7 @@ July 2
 
 July 3
 : **9**{: .label} Functions
-    : {{site.links.lec.slides.slide}} {{site.links.lec.demo.demo}}
+    : {{site.links.lec.slides.slide09}} {{site.links.lec.demo.demo09}}
 : _Reading:_ [8.0](https://inferentialthinking.com/chapters/08/Functions_and_Tables.html), [8.1](https://inferentialthinking.com/chapters/08/1/Applying_a_Function_to_a_Column.html)
 : **Homework**{: .label .label-homework} 
     {{site.links.hw.hw04}} (Due 7/8)
