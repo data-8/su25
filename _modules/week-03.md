@@ -9,6 +9,7 @@ July 7
     : {{site.links.lec.slides.slide10}} {{site.links.lec.demo.demo}}
 : _Reading:_ [8.2](https://inferentialthinking.com/chapters/08/2/Classifying_by_One_Variable.html), [8.3](https://inferentialthinking.com/chapters/08/3/Cross-Classifying_by_More_than_One_Variable.html), [8.4](https://inferentialthinking.com/chapters/08/4/Joining_Tables_by_Columns.html), [8.5](https://inferentialthinking.com/chapters/08/5/Bike_Sharing_in_the_Bay_Area.html)
 : **Lab**{: .label .label-lab} {{site.links.lab.lab05}} 
+: **Discussion**{: .label .label-discussion} {{site.links.wksht.wksht05}}
 
 July 8
 : **12**{: .label} Conditionals and Iteration
