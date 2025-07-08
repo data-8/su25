@@ -13,7 +13,7 @@ July 7
 
 July 8
 : **12**{: .label} Conditionals and Iteration
-    : {{site.links.lec.slides.slide}} {{site.links.lec.demo.demo}}
+    : {{site.links.lec.slides.slide12}} {{site.links.lec.demo.demo12}}
 : _Reading:_ [9.0](https://inferentialthinking.com/chapters/09/Randomness.html), [9.1](https://inferentialthinking.com/chapters/09/1/Conditional_Statements.html), [9.2](https://inferentialthinking.com/chapters/09/2/Iteration.html)
 : **Homework**{: .label .label-homework} 
     {{site.links.hw.hw05}} (Due 7/11)
