@@ -3,7 +3,8 @@ title: Week 3 Updated Announcements!
 week: 3
 date: 2025-07-09
 ---
-- Project 1 Checkpoint deadline has been **extended** to Tuesday, July 8 at 8pm
+- Project 1 Checkpoint deadline has been extended to Tuesday, July 8 at 8pm
+  - Project 1 Party will be on **Thursday, July 10 from 3-5pm at Warren 101-B**!
   - Final submission is due Tuesday, July 15 at 8pm
 - HW 4 is due Tuesday, July 8 at 8pm
 - Lab 5 and Lab 6 are both due **Wednesday, July 9** at 8pm
