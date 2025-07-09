@@ -20,7 +20,7 @@ July 8
 
 July 9 
 : **13**{: .label} Probability and Simulations
-    : {{site.links.lec.slides.slide}} {{site.links.lec.demo.demo}}
+    : {{site.links.lec.slides.slide13}} {{site.links.lec.demo.demo13}}
 : _Reading:_ [9.3](https://inferentialthinking.com/chapters/09/3/Simulation.html), [9.4](https://inferentialthinking.com/chapters/09/4/Monty_Hall_Problem.html), [9.5](https://inferentialthinking.com/chapters/09/5/Finding_Probabilities.html)
 : **Lab**{: .label .label-lab} {{site.links.lab.lab06}} 
 
