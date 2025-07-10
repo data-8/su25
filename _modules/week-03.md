@@ -26,7 +26,7 @@ July 9
 
 July 10
 : **14**{: .label} Sampling and Empirical Distributions
-    : {{site.links.lec.slides.slide}} {{site.links.lec.demo.demo}}
+    : {{site.links.lec.slides.slide14}} {{site.links.lec.demo.demo14}}
 : _Reading:_ [10](https://inferentialthinking.com/chapters/10/Sampling_and_Empirical_Distributions.html)
 
 July 11
