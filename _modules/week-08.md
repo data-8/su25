@@ -5,18 +5,18 @@ status: Active
 ---
 
 August 11
-: **35**{: .label} Multiple Linear Regression
+: **36**{: .label} Multiple Linear Regression
     : {{site.links.lec.slides.slide}} {{site.links.lec.demo.demo}}
 : _Reading:_ [17.6](https://inferentialthinking.com/chapters/17/6/Multiple_Regression.html)
 : **Lab**{: .label .label-lab} {{site.links.lab.lab15}} 
 
 August 12
-: **36**{: .label} Final Exam Review I
+: **37**{: .label} Final Exam Review I
     : {{site.links.lec.slides.slide}} {{site.links.lec.demo.demo}}
     
 
 August 13
-: **37**{: .label} Final Exam Review II
+: **38**{: .label} Final Exam Review II
     : {{site.links.lec.slides.slide}} {{site.links.lec.demo.demo}}
 
 August 14
@@ -24,4 +24,4 @@ August 14
     
 
 August 15
-: **37**{: .label} **Conclusion & Panel**
+: **39**{: .label} **Conclusion & Panel**
