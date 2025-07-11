@@ -31,8 +31,8 @@ July 10
 : _Reading:_ [10](https://inferentialthinking.com/chapters/10/Sampling_and_Empirical_Distributions.html)
 
 July 11
-: **15**{: .label} Hypothesis Testing
-    : {{site.links.lec.slides.slide}} {{site.links.lec.demo.demo}}
+: **15 & 16**{: .label} Hypothesis Testing
+    : {{site.links.lec.slides.slide16}} {{site.links.lec.demo.demo16}}
 : _Reading:_ [11.0](https://inferentialthinking.com/chapters/11/Testing_Hypotheses.html), [11.1](https://inferentialthinking.com/chapters/11/1/Assessing_a_Model.html), [11.2](https://inferentialthinking.com/chapters/11/2/Multiple_Categories.html)
 : **Homework**{: .label .label-homework} 
     {{site.links.hw.hw06}} (Due 7/15)
