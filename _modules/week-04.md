@@ -22,7 +22,7 @@ July 16
 : **19**{: .label} Causality
     : {{site.links.lec.slides.slide}} {{site.links.lec.demo.demo}}
 : _Reading:_ [12.2](https://inferentialthinking.com/chapters/12/2/Causality.html), [12.3](https://inferentialthinking.com/chapters/12/3/Deflategate.html)
-: **Lab**{: .label .label-lab} {{site.links.lab.lab08}} 
+: **Discussion**{: .label .label-discussion} {{site.links.wksht.worksheet}}
 
 
 July 17

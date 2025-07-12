@@ -8,7 +8,7 @@ August 11
 : **36**{: .label} Multiple Linear Regression
     : {{site.links.lec.slides.slide}} {{site.links.lec.demo.demo}}
 : _Reading:_ [17.6](https://inferentialthinking.com/chapters/17/6/Multiple_Regression.html)
-: **Lab**{: .label .label-lab} {{site.links.lab.lab15}} 
+: **Lab**{: .label .label-lab} {{site.links.lab.lab13}} 
 
 August 12
 : **37**{: .label} Final Exam Review I

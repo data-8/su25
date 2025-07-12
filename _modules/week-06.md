@@ -8,7 +8,7 @@ July 28
 : **26**{: .label} Case Study: Elections
     : {{site.links.lec.slides.slide}} {{site.links.lec.demo.demo}}
 : _Reading:_ [14.6](https://inferentialthinking.com/chapters/14/6/Choosing_a_Sample_Size.html)
-: **Lab**{: .label .label-lab} {{site.links.lab.lab11}} 
+: **Lab**{: .label .label-lab} {{site.links.lab.lab10}} 
 
 July 29
 : **27**{: .label} Correlation
@@ -21,7 +21,7 @@ July 30
 : **28**{: .label} Linear Regression
     : {{site.links.lec.slides.slide}} {{site.links.lec.demo.demo}}
 : _Reading:_ [15.2](https://inferentialthinking.com/chapters/15/2/Regression_Line.html)
-: **Lab**{: .label .label-lab} {{site.links.lab.lab12}} 
+: **Lab**{: .label .label-lab} {{site.links.lab.lab11}} 
 
 July 31
 : **29**{: .label} Least Squares

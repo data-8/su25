@@ -8,7 +8,7 @@ August 4
 : **31**{: .label} Regression Inference
     : {{site.links.lec.slides.slide}} {{site.links.lec.demo.demo}}
 : _Reading:_ [16](https://inferentialthinking.com/chapters/16/Inference_for_Regression.html)
-: **Lab**{: .label .label-lab} {{site.links.lab.lab13}} 
+: **Lab**{: .label .label-lab} {{site.links.lab.lab12}} 
 
 
 August 5
@@ -24,7 +24,6 @@ August 6
 : **33**{: .label} Implementing Classifiers
     : {{site.links.lec.slides.slide}} {{site.links.lec.demo.demo}}
 : _Reading:_ [17.3](https://inferentialthinking.com/chapters/17/3/Rows_of_Tables.html), [17.4](https://inferentialthinking.com/chapters/17/4/Implementing_the_Classifier.html)
-: **Lab**{: .label .label-lab} {{site.links.lab.lab14}} 
 
 
 
