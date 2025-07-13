@@ -18,7 +18,7 @@ UC Berkeley, Summer 2025
 [Lecture Recordings](https://bcourses.berkeley.edu/courses/1544818/external_tools/90481){: .btn .btn-bcourses}
 [Office Hours Queue](https://oh.data8.org/){: .btn .btn-officehours}
 <!-- [Extensions](https://docs.google.com/forms/d/e/1FAIpQLSebp86RhH3cWG1_4v6dR5f_WyJ_icj3cmXoUy9p4C30typmOw/viewform){: .btn .btn-extensions} -->
-[Jump to Current Week](https://www.data8.org/su25/#week-3){: .btn .btn-currweek}
+[Jump to Current Week](https://www.data8.org/su25/#week-4){: .btn .btn-currweek}
 {% include announcements-navigation.html %}
 
 {% assign mods = site.modules | where: 'class', 'Berkeley' %}
