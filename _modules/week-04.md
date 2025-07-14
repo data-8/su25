@@ -9,6 +9,7 @@ July 14
     : {{site.links.lec.slides.slide17}} {{site.links.lec.demo.demo17}}
 : _Reading:_ [11.3](https://inferentialthinking.com/chapters/11/3/Decisions_and_Uncertainty.html), [11.4](https://inferentialthinking.com/chapters/11/4/Error_Probabilities.html)
 : **Lab**{: .label .label-lab} {{site.links.lab.lab07}} 
+: **Discussion**{: .label .label-discussion} {{site.links.wksht.wksht07}}
 
 
 
