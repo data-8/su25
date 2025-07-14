@@ -6,7 +6,7 @@ status: Active
 
 July 14
 : **17**{: .label} Decisions and Uncertainty
-    : {{site.links.lec.slides.slide}} {{site.links.lec.demo.demo}}
+    : {{site.links.lec.slides.slide17}} {{site.links.lec.demo.demo17}}
 : _Reading:_ [11.3](https://inferentialthinking.com/chapters/11/3/Decisions_and_Uncertainty.html), [11.4](https://inferentialthinking.com/chapters/11/4/Error_Probabilities.html)
 : **Lab**{: .label .label-lab} {{site.links.lab.lab07}} 
 
