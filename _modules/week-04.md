@@ -15,7 +15,7 @@ July 14
 
 July 15
 : **18**{: .label} A/B Testing
-    : {{site.links.lec.slides.slide}} {{site.links.lec.demo.demo}}
+    : {{site.links.lec.slides.slide18}} {{site.links.lec.demo.demo18}}
 : _Reading:_ [12.0](https://inferentialthinking.com/chapters/12/Comparing_Two_Samples.html), [12.1](https://inferentialthinking.com/chapters/12/1/AB_Testing.html)
 
 
