@@ -28,7 +28,7 @@ July 16
 
 July 17
 : **20**{: .label} Midterm Review
-    : {{site.links.lec.slides.slide}} {{site.links.lec.demo.demo}}
+    : {{site.links.lec.slides.slide20}} 
 
 
 July 18
