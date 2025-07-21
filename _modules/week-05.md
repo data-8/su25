@@ -6,7 +6,7 @@ status: Active
 
 July 21
 : **21**{: .label} Confidence Intervals
-    : {{site.links.lec.slides.slide}} {{site.links.lec.demo.demo}}
+    : {{site.links.lec.slides.slide21}} {{site.links.lec.demo.demo21}}
 : _Reading:_ [13.0](https://inferentialthinking.com/chapters/13/Estimation.html), [13.1](https://inferentialthinking.com/chapters/13/1/Percentiles.html), [13.2](https://inferentialthinking.com/chapters/13/2/Bootstrap.html), [13.3](https://inferentialthinking.com/chapters/13/3/Confidence_Intervals.html)
 : **Lab**{: .label .label-lab} {{site.links.lab.lab08}} 
 
