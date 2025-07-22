@@ -9,7 +9,7 @@ description: >-
 # **Detailed Python Reference Sheet**
 
 {:.no_toc}
-Created by Nishant Kheterpal and Jessica H; contributions by Jonathan Ferrari, Edwin Vargas and Bing Concepcion  
+Created by Nishant Kheterpal and Jessica Hu; contributions by Jonathan Ferrari, Edwin Vargas and Bing Concepcion  
  Updated and maintained by Richard Villagomez and Isaac Chung 
 
 ## Table of Contents
