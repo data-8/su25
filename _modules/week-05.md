@@ -13,7 +13,7 @@ July 21
 
 July 22
 : **22**{: .label} Interpreting Confidence
-    : {{site.links.lec.slides.slide}} {{site.links.lec.demo.demo}}
+    : {{site.links.lec.slides.slide22}} {{site.links.lec.demo.demo22}}
 : _Reading:_ [13.4](https://inferentialthinking.com/chapters/13/4/Using_Confidence_Intervals.html)
 : **Homework**{: .label .label-homework} 
     {{site.links.hw.hw07}} (Due 7/25)
