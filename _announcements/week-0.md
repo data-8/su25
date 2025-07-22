@@ -1,5 +1,5 @@
 ---
-title: Week 4 Announcements!
+title: Week 5 Announcements!
 week: 5
 date: 2025-07-21
 ---
