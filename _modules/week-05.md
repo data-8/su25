@@ -20,7 +20,7 @@ July 22
 
 July 23
 : **23**{: .label} Center and Spread
-    : {{site.links.lec.slides.slide}} {{site.links.lec.demo.demo}}
+    : {{site.links.lec.slides.slide23}} {{site.links.lec.demo.demo23}}
 : _Reading:_ [14.0](https://inferentialthinking.com/chapters/14/Why_the_Mean_Matters.html), [14.1](https://inferentialthinking.com/chapters/14/1/Properties_of_the_Mean.html), [14.2](https://inferentialthinking.com/chapters/14/2/Variability.html)
 : **Lab**{: .label .label-lab} {{site.links.lab.lab09}} 
 
