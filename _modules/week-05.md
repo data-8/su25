@@ -26,7 +26,7 @@ July 23
 
 July 24
 : **24**{: .label} Normal Distribution
-    : {{site.links.lec.slides.slide}} {{site.links.lec.demo.demo}}
+    : {{site.links.lec.slides.slide24}} {{site.links.lec.demo.demo24}}
 : _Reading:_ [14.3](https://inferentialthinking.com/chapters/14/3/SD_and_the_Normal_Curve.html), [14.4](https://inferentialthinking.com/chapters/14/4/Central_Limit_Theorem.html)
 
 July 25
