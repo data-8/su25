@@ -31,7 +31,7 @@ July 24
 
 July 25
 : **25**{: .label} Variability of Sample Mean
-    : {{site.links.lec.slides.slide}} {{site.links.lec.demo.demo}}
-: _Reading:_ [14.5](https://inferentialthinking.com/chapters/14/5/Variability_of_the_Sample_Mean.html)
+    : {{site.links.lec.slides.slide25}} {{site.links.lec.demo.demo25}}
+: _Reading:_ [14.5](https://inferentialthinking.com/chapters/14/5/Variability_of_the_Sample_Mean.html), [14.6](https://inferentialthinking.com/chapters/14/6/Choosing_a_Sample_Size.html)
 : **Homework**{: .label .label-homework} 
     {{site.links.hw.hw08}} (Due 7/29)
