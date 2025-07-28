@@ -6,7 +6,7 @@ status: Active
 
 July 28
 : **27**{: .label} Correlation
-    : {{site.links.lec.slides.slide}} {{site.links.lec.demo.demo}}
+    : {{site.links.lec.slides.slide27}} {{site.links.lec.demo.demo27}}
 : _Reading:_ [15.0](https://inferentialthinking.com/chapters/15/Prediction.html), [15.1](https://inferentialthinking.com/chapters/15/1/Correlation.html)
 : **Lab**{: .label .label-lab} {{site.links.lab.lab10}} 
 
