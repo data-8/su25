@@ -1,13 +1,13 @@
 ---
-title: Week 5 Announcements!
-week: 5
-date: 2025-07-21
+title: Week 6 Announcements!
+week: 6
+date: 2025-07-28
 ---
-- Congrats on finishing the midterm! We are finishing up grading.
-- Lab 8 is due Monday, 7/21
-- Lab 9 is due Wednesday, 7/21
-- HW 7 will be released Tuesday and is due Friday, 7/25
-- HW 8 will be released Friday and is due Tuesday, 7/29
+- Lab 10 is due Monday, 7/28
+- HW 8 is due Tuesday, 7/29
+- Lab 11 is due Wednesday, 7/30
+- HW 9 will be released Tuesday and is due Friday, 8/1
+
 
 
   {: .fs-5 }
