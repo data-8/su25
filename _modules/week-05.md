@@ -30,7 +30,7 @@ July 24
 : _Reading:_ [14.3](https://inferentialthinking.com/chapters/14/3/SD_and_the_Normal_Curve.html), [14.4](https://inferentialthinking.com/chapters/14/4/Central_Limit_Theorem.html)
 
 July 25
-: **25**{: .label} Variability of Sample Mean
+: **25 & 26**{: .label} Variability of Sample Mean
     : {{site.links.lec.slides.slide25}} {{site.links.lec.demo.demo25}}
 : _Reading:_ [14.5](https://inferentialthinking.com/chapters/14/5/Variability_of_the_Sample_Mean.html), [14.6](https://inferentialthinking.com/chapters/14/6/Choosing_a_Sample_Size.html)
 : **Homework**{: .label .label-homework} 
