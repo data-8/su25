@@ -12,7 +12,7 @@ July 28
 
 July 29
 : **28**{: .label} Linear Regression
-    : {{site.links.lec.slides.slide}} {{site.links.lec.demo.demo}}
+    : {{site.links.lec.slides.slide28}} {{site.links.lec.demo.demo28}}
 : _Reading:_ [15.2](https://inferentialthinking.com/chapters/15/2/Regression_Line.html)
 : **Homework**{: .label .label-homework} 
     {{site.links.hw.hw09}} (Due 8/1)
