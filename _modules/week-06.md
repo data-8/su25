@@ -19,7 +19,7 @@ July 29
 
 July 30
 : **29**{: .label} Least Squares
-    : {{site.links.lec.slides.slide}} {{site.links.lec.demo.demo}}
+    : {{site.links.lec.slides.slide29}} {{site.links.lec.demo.demo29}}
 : _Reading:_ [15.3](https://inferentialthinking.com/chapters/15/3/Method_of_Least_Squares.html), [15.4](https://inferentialthinking.com/chapters/15/4/Least_Squares_Regression.html)
 : **Lab**{: .label .label-lab} {{site.links.lab.lab11}} 
 
