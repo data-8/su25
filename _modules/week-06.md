@@ -25,7 +25,7 @@ July 30
 
 July 31
 : **30**{: .label} Residuals
-    : {{site.links.lec.slides.slide}} {{site.links.lec.demo.demo}}
+    : {{site.links.lec.slides.slide30}} {{site.links.lec.demo.demo30}}
 : _Reading:_ [15.5](https://inferentialthinking.com/chapters/15/5/Visual_Diagnostics.html), [15.6](https://inferentialthinking.com/chapters/15/6/Numerical_Diagnostics.html)
 
 
