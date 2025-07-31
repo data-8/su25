@@ -9,6 +9,7 @@ July 28
     : {{site.links.lec.slides.slide27}} {{site.links.lec.demo.demo27}}
 : _Reading:_ [15.0](https://inferentialthinking.com/chapters/15/Prediction.html), [15.1](https://inferentialthinking.com/chapters/15/1/Correlation.html)
 : **Lab**{: .label .label-lab} {{site.links.lab.lab10}} 
+: **Discussion**{: .label .label-discussion} {{site.links.wksht.wksht11}}
 
 July 29
 : **28**{: .label} Linear Regression
@@ -22,6 +23,7 @@ July 30
     : {{site.links.lec.slides.slide29}} {{site.links.lec.demo.demo29}}
 : _Reading:_ [15.3](https://inferentialthinking.com/chapters/15/3/Method_of_Least_Squares.html), [15.4](https://inferentialthinking.com/chapters/15/4/Least_Squares_Regression.html)
 : **Lab**{: .label .label-lab} {{site.links.lab.lab11}} 
+: **Discussion**{: .label .label-discussion} {{site.links.wksht.wksht12}}
 
 July 31
 : **30**{: .label} Residuals and Diagnostics

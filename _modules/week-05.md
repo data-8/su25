@@ -9,6 +9,7 @@ July 21
     : {{site.links.lec.slides.slide21}} {{site.links.lec.demo.demo21}}
 : _Reading:_ [13.0](https://inferentialthinking.com/chapters/13/Estimation.html), [13.1](https://inferentialthinking.com/chapters/13/1/Percentiles.html), [13.2](https://inferentialthinking.com/chapters/13/2/Bootstrap.html), [13.3](https://inferentialthinking.com/chapters/13/3/Confidence_Intervals.html)
 : **Lab**{: .label .label-lab} {{site.links.lab.lab08}} 
+: **Discussion**{: .label .label-discussion} {{site.links.wksht.wksht09}}
 
 
 July 22
@@ -23,6 +24,7 @@ July 23
     : {{site.links.lec.slides.slide23}} {{site.links.lec.demo.demo23}}
 : _Reading:_ [14.0](https://inferentialthinking.com/chapters/14/Why_the_Mean_Matters.html), [14.1](https://inferentialthinking.com/chapters/14/1/Properties_of_the_Mean.html), [14.2](https://inferentialthinking.com/chapters/14/2/Variability.html)
 : **Lab**{: .label .label-lab} {{site.links.lab.lab09}} 
+: **Discussion**{: .label .label-discussion} {{site.links.wksht.wksht10}}
 
 July 24
 : **24**{: .label} Normal Distribution
