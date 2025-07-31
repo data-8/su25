@@ -44,7 +44,7 @@ We will post student materials in a [folder linked here](https://drive.google.co
 ## Past Exams
 Exams, practice exams, and walkthrough videos from previous semesters can be found below. These exams may differ slightly in terms of material covered and syntax used, as the `datascience` module has changed over time.
 
-> **Note:** For the Fall 2024 Midterm, students will receive an [abbreviated reference sheet](https://drive.google.com/file/d/1-QTbe5QiXAB9wz73JVLTYhoUE1V7NqOS/view?usp=drive_link).
+> **Note:** For the Summer 2025 exams, students will receive an [abbreviated reference sheet](https://drive.google.com/file/d/1W2y9_W2U_AF4KAdpxeTd59YIDIUK-zM9/view).
 
 {% include past-exams.md %}
 
