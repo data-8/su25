@@ -33,7 +33,7 @@ July 31
 
 August 1
 : **31**{: .label} Regression Inference
-    : {{site.links.lec.slides.slide}} {{site.links.lec.demo.demo}}
+    : {{site.links.lec.slides.slide31}} {{site.links.lec.demo.demo31}}
 : _Reading:_ [16](https://inferentialthinking.com/chapters/16/Inference_for_Regression.html)
 : **Homework**{: .label .label-homework} 
     {{site.links.hw.hw10}} (Due 8/5)
