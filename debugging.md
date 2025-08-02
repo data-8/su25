@@ -3,7 +3,7 @@ layout: page
 nav_order: 8
 title: 💻 Debugging
 description: >-
-    Debugging
+  Debugging
 ---
 
 <style>
@@ -13,6 +13,7 @@ description: >-
 </style>
 
 # **Debugging**
+
 {:.no_toc}
 
 ## Cells and the Autograder
@@ -59,10 +60,13 @@ description: >-
 </p>
   <p style="margin-left:16px;">Additionally, this can fail if you have not saved before you run the autograder. Ensure you select File -> Save Notebook to avoid this.
 </p>
-    <p style="margin-left:16px;">This is why we recommend running Kernel -> Restart and Run All: it “forgets” all of the variables and runs the notebook from top-to-bottom, just like the Gradescope autograder will. This will highlight any issues. Find the first cell that raises an error. Make sure that all of the variables used in that cell have been defined above that cell, and not below.
+<p style="margin-left:16px;">Lastly, this can also happen if you defined a variable in a cell and then decided to change its name or delete it. Although your kernel "remembers" the variable from a previous run, the autograder does not. If you change the name of a variable, make sure to update it everywhere in the notebook. This issue is common when you're working on projects. (If you see that you've executed a few hundred cells in total, that's already a sign that you should consider restarting your kernel and running all cells again!)
+</p>
+
+    <p style="margin-left:16px;">This is why we recommend running <b>Kernel → Restart & Run All</b>: it "forgets" all variables and runs the notebook from top to bottom—just like the Gradescope autograder does. Be sure to save the notebook before exporting. This will highlight any issues. Find the first cell that raises an error. Make sure that all of the variables used in that cell have been defined above that cell, and not below.
+
 </p>
 </details>
-
 <details>
   <summary><strong>Why do I get an error saying grader is not defined?</strong></summary>
   <p style="margin-left:16px;">If it has been a while since you’ve worked on an assignment, the kernel will shut itself down to preserve memory. When this happens, all of your variables are forgotten, including the grader. That’s OK: you’ll just need to re-run all of the cells. The easiest way to do this is by using Kernel -> Restart and Run All.
@@ -80,14 +84,29 @@ description: >-
 <details>
   <summary><strong>I accidentally deleted something in a cell that was provided to me – how do I get it back?</strong></summary>
   <p style="margin-left:16px;">There are two solutions:</p>
-  <p style="margin-left:16px;">1. In <a href="https://github.com/data-8/materials-sp25">this</a>
+  <p style="margin-left:16px;">1. In <a href="https://github.com/data-8/materials-su25">this</a>
  public GitHub repository, you’ll find the “original” versions of all assignments we released this semester. You can look here and manually add back any necessary code or text that you accidentally deleted.</p>
   <p style="margin-left:16px;">2. Suppose you’re working on Lab 5. One solution is go directly to DataHub and rename your <code>lab05</code> folder to something else, like <code>lab05-old</code>. Then, click the Lab 5 link on the course website again, and it’ll bring you to a brand-new version of Lab 5. Then, you can copy your work from your old Lab 5 to this new one, which should have everything in it.</p>
 </details>
 
-## Specific Errors
-A general rule of thumb when debugging is to look at the very last line of an error message. That’s usually the most informative part of the message, and will often tell you directly what’s wrong.
+<details>
+  <summary><strong>Why do I get a <code>NameError: name 'variable_name' is not defined</code> after a certain point on Gradescope, even though I passed all test cases locally in my notebook?</strong></summary>
+  <p style="margin-left:16px;">This could happen if you are importing unnecessary external libraries in your notebook. The autograder runs your notebook in a clean environment that includes only a specific set of libraries provided by the course staff, so it does not have access to any libraries you installed locally. If you are using any libraries that are not part of the standard Python library or the approved list, you will need to remove those imports from your notebook.
+</p>
+</details>
 
+<details>
+  <summary><strong>Why does my autograder on Gradescope keeps running/timing out?</strong></summary>
+  <p style="margin-left:16px;">This could be due to an inefficiency in your code or an issue on Gradescope’s end, so we recommend resubmitting and allowing the autograder to rerun. If the issue persists after a few attempts, you may need to investigate your code for inefficiencies.</p>
+<p style="margin-left:16px;">
+For example, if you rerun all cells in your notebook and notice that some cells take significantly longer to run than others, you might need to optimize those cells. Keep in mind that the time it takes to run all tests in your notebook is not equivalent to the time it takes on Gradescope. However, it is proportional—if your notebook runs slowly locally in your notebook, it will likely run even more slowly on Gradescope, as the difference in runtime is amplified.
+
+</p>
+</details>
+
+## Specific Errors
+
+A general rule of thumb when debugging is to look at the very last line of an error message. That’s usually the most informative part of the message, and will often tell you directly what’s wrong.
 
 <details>
   <summary><strong>... object is not callable</strong></summary>
