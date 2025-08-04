@@ -18,7 +18,7 @@ August 5
 : _Reading:_ [17.3](https://inferentialthinking.com/chapters/17/3/Rows_of_Tables.html), [17.4](https://inferentialthinking.com/chapters/17/4/Implementing_the_Classifier.html)
 : **Homework**{: .label .label-homework} 
     {{site.links.hw.hw11}} (Due 8/8)
-: **Project**{: .label .label-project} {{site.links.proj.proj2}} (Due Fri 8/14, Checkpoint 8/8)
+: **Project**{: .label .label-project} {{site.links.proj.proj2}} (Due Thurs 8/14, Checkpoint 8/8)
 
 
 August 6
