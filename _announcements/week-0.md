@@ -1,12 +1,16 @@
 ---
-title: Week 6 Updated Announcements!
-week: 6
-date: 2025-07-29
+title: Week 7 Announcements!
+week: 7
+date: 2025-08-04
 ---
-- Lab 10 deadline has been extended to **Wednesday, 7/30**
-- HW 8 is due Tuesday, 7/29
-- Lab 11 is due Wednesday, 7/30
-- HW 9 will be released Tuesday and is due Friday, 8/1
+- Midterm solutions are released!
+  - Regrades are due Friday, 8/8 at 11:59pm
+- Lab 12 is due Monday, 8/4
+- Homework 10 is due Tuesday, 8/5
+- Project 2 will be released on Tuesday, 8/5
+  - Checkpoint is due Friday, 8/8
+  - Final submission is due Thursday, 8/14
+- Homework 11 is due Friday, 8/8
 
 
 
