@@ -6,7 +6,7 @@ status: Active
 
 August 4
 : **32**{: .label} Classification
-    : {{site.links.lec.slides.slide}} {{site.links.lec.demo.demo}}
+    : {{site.links.lec.slides.slide32}} {{site.links.lec.demo.demo32}}
 : _Reading:_ [17.0](https://inferentialthinking.com/chapters/17/Classification.html), [17.1](https://inferentialthinking.com/chapters/17/1/Nearest_Neighbors.html)
 : **Lab**{: .label .label-lab} {{site.links.lab.lab12}} 
 
