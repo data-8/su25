@@ -9,6 +9,7 @@ August 4
     : {{site.links.lec.slides.slide32}} {{site.links.lec.demo.demo32}}
 : _Reading:_ [17.0](https://inferentialthinking.com/chapters/17/Classification.html), [17.1](https://inferentialthinking.com/chapters/17/1/Nearest_Neighbors.html)
 : **Lab**{: .label .label-lab} {{site.links.lab.lab12}} 
+: **Discussion**{: .label .label-discussion} {{site.links.wksht.wksht13}}
 
 
 August 5
