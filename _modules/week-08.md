@@ -19,7 +19,7 @@ August 13
     : {{site.links.lec.slides.slide}} {{site.links.lec.demo.demo}}
 
 August 14
-: **Exam**{: .label .label-exam} **Final** (10:30am-12pm)
+: **Exam**{: .label .label-exam} **Final** (10:00am-12:30pm)
     
 
 August 15
