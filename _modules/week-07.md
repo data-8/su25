@@ -14,7 +14,7 @@ August 4
 
 August 5
 : **33**{: .label} Implementing Classifiers
-    : {{site.links.lec.slides.slide}} {{site.links.lec.demo.demo}}
+    : {{site.links.lec.slides.slide33}} {{site.links.lec.demo.demo33}}
 : _Reading:_ [17.3](https://inferentialthinking.com/chapters/17/3/Rows_of_Tables.html), [17.4](https://inferentialthinking.com/chapters/17/4/Implementing_the_Classifier.html)
 : **Homework**{: .label .label-homework} 
     {{site.links.hw.hw11}} (Due 8/8)
