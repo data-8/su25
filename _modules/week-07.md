@@ -31,7 +31,7 @@ August 6
 
 August 7
 : **35**{: .label} Updating Probabilities
-    : {{site.links.lec.slides.slide}} {{site.links.lec.demo.demo}}
+    : {{site.links.lec.slides.slide35}} {{site.links.lec.demo.demo35}}
 : _Reading:_ [18.0](https://inferentialthinking.com/chapters/18/Updating_Predictions.html), [18.1](https://inferentialthinking.com/chapters/18/1/More_Likely_than_Not_Binary_Classifier.html), [18.2](https://inferentialthinking.com/chapters/18/2/Making_Decisions.html)
 
 
