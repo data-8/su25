@@ -25,6 +25,7 @@ August 6
 : **34**{: .label} Evaluating Classifiers
     : {{site.links.lec.slides.slide34}} {{site.links.lec.demo.demo34}}
 : _Reading:_ [17.2](https://inferentialthinking.com/chapters/17/2/Training_and_Testing.html), [17.5](https://inferentialthinking.com/chapters/17/5/Accuracy_of_the_Classifier.html)
+: **Discussion**{: .label .label-discussion} {{site.links.wksht.wksht14}}
 
 
 
