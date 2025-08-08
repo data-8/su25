@@ -15,6 +15,8 @@ nav_order: 3
 1. TOC
 {:toc}
 
+Here is a [PDF version](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/data-8/su25/main/syllabus-pdf-version.pdf&embedded=true) of the syllabus.
+
 ## First things first
 
 ### A message from DSUS
