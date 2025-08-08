@@ -11,6 +11,7 @@ date: 2025-08-04
   - Checkpoint is due Friday, 8/8
   - Final submission is due Thursday, 8/14
 - [Homework 11](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su25&urlpath=tree%2Fmaterials-su25%2Fhw%2Fhw11%2Fhw11.ipynb) is due Friday, 8/8
+- [Homework 12](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su25&urlpath=tree%2Fmaterials-su25%2Fhw%2Fhw12%2Fhw12.ipynb) is due Tuesday, 8/12
 
 
 
