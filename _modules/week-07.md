@@ -38,7 +38,7 @@ August 7
 
 August 8
 : **36**{: .label} Multiple Linear Regression
-    : {{site.links.lec.slides.slide}} {{site.links.lec.demo.demo}}
+    : {{site.links.lec.slides.slide36}} {{site.links.lec.demo.demo36}}
 : _Reading:_ [17.6](https://inferentialthinking.com/chapters/17/6/Multiple_Regression.html)
 : **Homework**{: .label .label-homework} 
     {{site.links.hw.hw12}} (Due 8/12)
