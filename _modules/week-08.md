@@ -5,17 +5,17 @@ status: Active
 ---
 
 August 11
-: **37**{: .label} Final Exam Review I
-    : {{site.links.lec.slides.slide}} {{site.links.lec.demo.demo}}
+: **37**{: .label} Staff Panel
+    : {{site.links.lec.slides.slide37}} {{site.links.lec.demo.demo02}}
 : **Lab**{: .label .label-lab} {{site.links.lab.lab13}} 
 
 August 12
-: **38**{: .label} Final Exam Review II
+: **38**{: .label} Final Exam Review I
     : {{site.links.lec.slides.slide}} {{site.links.lec.demo.demo}}
 
 
 August 13
-: **39**{: .label} Final Exam Review III
+: **39**{: .label} Final Exam Review II
     : {{site.links.lec.slides.slide}} {{site.links.lec.demo.demo}}
 
 August 14
@@ -23,4 +23,4 @@ August 14
     
 
 August 15
-: **39**{: .label} **Conclusion & Panel**
+: **39**{: .label} **Conclusion**
