@@ -23,4 +23,5 @@ August 14
     
 
 August 15
-: **39**{: .label} **Conclusion**
+: **40**{: .label} **Conclusion**
+    : {{site.links.lec.slides.slide40}} {{site.links.lec.demo.demo02}}
