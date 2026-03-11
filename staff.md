@@ -5,6 +5,9 @@ description: A listing of all the course staff members.
 nav_order: 4
 ---
 
+{: .warning }
+⚠️ This content is archived as of March 2026 and is retained exclusively for reference. [Find current offerings.](https://data8.org/)
+
 # **Staff**
 
 **Email [data8@berkeley.edu](mailto:data8@berkeley.edu) for all logistical and student support questions!**

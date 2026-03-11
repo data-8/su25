@@ -147,6 +147,12 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 
+callouts_level: quiet # or loud
+callouts:
+  warning:
+    title: Warning
+    color: red
+
 ## Footer Content.
 # You should probably not change these, but may add to footer_content if necessary.
 # Replace `true` with any additional HTML that you would like to add.
